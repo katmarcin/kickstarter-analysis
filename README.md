@@ -14,7 +14,7 @@ The purpose of this analysis is to uncover trends related to how different campa
 
 For the analysis of Theater Outcomes Based on Launch Date, "months" is used on the x-axis to compare the data on a monthly basis for all years and for the y-axis, the count of outcomes is used to compare "successful, "failed", and "canceled" theater campaigns. From the graphical visualization, we can determine May to be the month with the highest number of successful outcomes. The least successful outcomes were found in December. The highest number of failed campaigns are represented in both October and May. The least amount of failed campaigns are found in November. The highest number of canceled outcomes is represented in January, and the lowest number of canceled outcomes is in October, where there were no canceled outcomes reported. However, the trend for canceled outcomes remains approximately linear through the months as visualized on the graph.
 
-![Theater_Outcomes_vs_Launch](path/to/Theaters_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/katmarcin/kickstarter-analysis/blob/e4b8ac0fc4ce33bfa504a87c7bc3418674450b7c/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -49,4 +49,4 @@ Some of the limitations of this dataset would include the following:
 
 Other possible trends that we can create to help our client Louise are Outcomes Based on Pledged and Outcomes Based on Average Donation. 
 
-![Outcomes_Based_on_Pledged](path/to/Outcomes_Based_on_Pledged.png)
+![Outcomes_Based_on_Pledged](https://github.com/katmarcin/kickstarter-analysis/blob/e4b8ac0fc4ce33bfa504a87c7bc3418674450b7c/Outcomes_Based_on_Pledged.png)
