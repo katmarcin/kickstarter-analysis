@@ -47,6 +47,6 @@ Some of the limitations of this dataset would include the following:
 
 - What are some other possible tables and/or graphs that we could create?
 
-Other possible trends that we can create to help our client Louise are Outcomes Based on Pledged and Outcomes Based on Average Donation. 
+Other possible trends that we can create to help our client Louise are Outcomes Based on Pledged and Outcomes Based on Average Donation. A visualization is provided for the pledged vs outcomes trend.
 
 ![Outcomes_Based_on_Pledged](https://github.com/katmarcin/kickstarter-analysis/blob/e4b8ac0fc4ce33bfa504a87c7bc3418674450b7c/Outcomes_Based_on_Pledged.png)
