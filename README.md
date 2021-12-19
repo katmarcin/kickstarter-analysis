@@ -20,7 +20,7 @@ For the analysis of Theater Outcomes Based on Launch Date, "months" is used on t
 
 For the analysis of Outcomes Based on Goal, the x-axis resresents the monetary value of funds that each play campaign set as a goal. It is broken up into 12 different data points, with each interval ranging $5000, except for our end two intervals, for "less than $1000" and "greater than $50000." Our y-axis represents percentage to compare "successful, "failed", and "canceled" play campaign outcomes. From the graphical visualization, we can determine the most successful play campaigns had a fundraising goal of less than $1000. Campaigns that failed the most, or were the least successful, had a fundraising goal of $45000-49999. Lastly, there were no play campaigns specifically that were canceled, therefore a gray line along the x-axis represents this group of data.
 
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/katmarcin/kickstarter-analysis/blob/ddfe2e38c04ca55c0ee33c3e66de680a1c4e5316/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
