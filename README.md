@@ -2,7 +2,7 @@
 
 ## Overview of Project 
 
-Data analysis was performed from the [Kickstarter_Challenge](path/to/filename.xlsx) dataset to compile graphical visualizations using Microsoft Excel. 1,369 campaigns belonging to the theater category in this dataset were further categorized into 'successful', 'canceled', or 'failed' and their outcomes were analyzed against their launch date. The outcomes of 1,047 plays, a theater subcategory, were also analyzed against their funding goal amount.
+Data analysis was performed from the Kickstarter Challenge dataset to compile graphical visualizations using Microsoft Excel. 1,369 campaigns belonging to the theater category in this dataset were further categorized into 'successful', 'canceled', or 'failed' and their outcomes were analyzed against their launch date. The outcomes of 1,047 plays, a theater subcategory, were also analyzed against their funding goal amount.
 
 ### Purpose
 
